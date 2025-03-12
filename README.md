@@ -42,6 +42,15 @@ python qarm_gui.py
 - View live camera feed (RGB and Depth).
 - Open/Close the gripper using the provided buttons.
 - Use Emergency Stop in case of unintended movement.
-
+- 
 ## 🖼️ GUI Preview
 ![image](https://github.com/user-attachments/assets/10bcbc06-62e2-43cc-872a-b8543f0c8379)
+
+## 🤖 QArm Joint Limits
+
+| Joint | Limit (Radians) |
+|-------|---------------|
+| 1     | -1.57 to 1.57 |
+| 2     | -0.52 to 0.79 |
+| 3     | -1.05 to 1.05 |
+| 4     | -1.57 to 1.57 |
