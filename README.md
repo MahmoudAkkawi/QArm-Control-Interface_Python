@@ -23,6 +23,16 @@ Ensure you have Python 3.7+ installed. Install the required dependencies using:
 ```sh
 pip install numpy opencv-python pillow
 ```
+| Library         | Purpose                                             |
+|----------------|-----------------------------------------------------|
+| `tkinter`      | GUI framework (comes pre-installed with Python)     |
+| `numpy`        | Mathematical calculations & matrix operations       |
+| `Pillow`       | Image processing (for displaying images in GUI)     |
+| `opencv-python`| Camera feed handling (for RGB & Depth visualization)|
+| `threading`    | Runs the camera feed updates in parallel            |
+
+Note: tkinter is included in Python by default, so you don't need to install it separately.
+
 ### **3. Install the Quanser Python SDK
 The Quanser Python API (Quanser SDK) is required for communication with the QArm.
 Installation:
