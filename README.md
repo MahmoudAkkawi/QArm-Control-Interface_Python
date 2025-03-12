@@ -36,11 +36,11 @@ Official Documentation: https://qlabs.quanserdocs.com/en/latest/Get%20Started.ht
 python qarm_gui.py
 ```
 ## 🎮 Usage
-Adjust joint angles using the sliders.
-Use predefined positions like "Home", "Pick", and "Place".
-View live camera feed (RGB and Depth).
-Open/Close the gripper using the provided buttons.
-Use Emergency Stop in case of unintended movement.
+- Adjust joint angles using the sliders.
+- Use predefined positions like "Home", "Pick", and "Place".
+- View live camera feed (RGB and Depth).
+- Open/Close the gripper using the provided buttons.
+- Use Emergency Stop in case of unintended movement.
 
 ## 🖼️ GUI Preview
 ![image](https://github.com/user-attachments/assets/10bcbc06-62e2-43cc-872a-b8543f0c8379)
