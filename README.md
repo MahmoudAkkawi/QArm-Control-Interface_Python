@@ -29,7 +29,8 @@ Installation:
 ```sh
 pip install quanser
 ```
-Official Documentation: https://qlabs.quanserdocs.com/en/latest/Get%20Started.html
+Official Documentation: 
+- [Quanser QLabs SDK - Installation Guide](https://qlabs.quanserdocs.com/en/latest/Get%20Started.html)
 
 ### 4. Run the Application
 ```sh
